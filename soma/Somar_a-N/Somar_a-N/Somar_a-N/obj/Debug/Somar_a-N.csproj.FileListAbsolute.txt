@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\bin\Debug\Somar_a-N.exe.config
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\bin\Debug\Somar_a-N.exe
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\bin\Debug\Somar_a-N.pdb
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a-N.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a_N.Form1.resources
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a_N.Properties.Resources.resources
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a-N.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a-N.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a-N.exe
+C:\Users\lucas\Desktop\Github\C#\soma\Somar_a-N\Somar_a-N\Somar_a-N\obj\Debug\Somar_a-N.pdb
