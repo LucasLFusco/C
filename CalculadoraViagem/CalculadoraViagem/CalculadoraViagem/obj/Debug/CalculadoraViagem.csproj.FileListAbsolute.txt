@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\bin\Debug\CalculadoraViagem.exe.config
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\bin\Debug\CalculadoraViagem.exe
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\bin\Debug\CalculadoraViagem.pdb
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.Form1.resources
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.Properties.Resources.resources
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.exe
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.pdb
+C:\Users\lucas\Desktop\Github\C#\C\CalculadoraViagem\CalculadoraViagem\CalculadoraViagem\obj\Debug\CalculadoraViagem.Form2.resources
