@@ -1,0 +1,11 @@
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\bin\Debug\UniAloCar.exe.config
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\bin\Debug\UniAloCar.exe
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\bin\Debug\UniAloCar.pdb
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.csproj.AssemblyReference.cache
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.FrmPrincipal.resources
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.Properties.Resources.resources
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.csproj.GenerateResource.cache
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.csproj.CoreCompileInputs.cache
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.exe
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.pdb
+C:\Users\sprof-mm\Downloads\traue\terca\UniAloCar\UniAloCar\obj\Debug\UniAloCar.FrmCadastroCliente.resources
